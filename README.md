@@ -15,6 +15,7 @@ input image
 ## Team Name
 
 **안녕 ? 난 민이라고해~**
+input team image
 
 ## Team Member
 팀장|팀원|팀원|팀원
