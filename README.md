@@ -30,20 +30,12 @@
 <img src="https://lh3.googleusercontent.com/proxy/thxrDo484QDjfy5K7zoOguoZ2ST2TO2oLgClotS135k_qenIbU_-QnJLDjrGE248U1JRMSqEpxKcaeGhDORi4TPZH-vwqscWTYkXYKZGb_Kgo-Ca6Uwm61OoLa5SPqNnVZ2GUUVZtbfRJ10vRrK8lGTVPi1rP1KG6VDazD-ashW4fWBH6159dr0UeQaGkcZBSYYuED2OPRiEuLZ1tBysrwU" width="450px" height="300px" alt="RubberDuck"></img>
 
 
-
-
-
-
-
-
-
-
 **Project period**
 2020.10.10 ~ 2020~11.
 
 
 [Notion 바로가기](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
-[보고서](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)
+<br>[스프레드시트 보고서](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
 ## Works Cited
 * Github <br></br>
 [ACGPN](https://github.com/switchablenorms/DeepFashion_Try_On)<br></br>
