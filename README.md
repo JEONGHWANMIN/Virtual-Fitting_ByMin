@@ -10,7 +10,10 @@
 
 ## ProJect Preview 
 
-<img src="/readme/preview.png" width="5oopx" height="300px"></img><br/>
+<br>
+<img src="/readme/preview.png" width="500px" height="300px"></img>
+<img src="/readme/preview2.png" width="500px" height="300px"></img>
+<br/>
 
 ## Team Name
 
