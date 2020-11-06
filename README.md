@@ -43,7 +43,7 @@
 
 
 [Notion 바로가기](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
-
+[보고서](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)
 ## Works Cited
 * Github <br></br>
 [ACGPN](https://github.com/switchablenorms/DeepFashion_Try_On)<br></br>
