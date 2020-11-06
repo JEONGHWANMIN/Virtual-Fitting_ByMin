@@ -18,10 +18,10 @@ input image
 **안녕 ? 난 민이라고해~**
 
 ## Team Member
-**이상민** 
-**이수민**
-**정종민**
-**정환민**
+**이상민**[대빵] 
+**이수민**[깐쟁이]
+**정종민**[궁시렁쟁이]
+**정환민**[말단사원]
 <br></br>
 <img src="https://lh3.googleusercontent.com/proxy/thxrDo484QDjfy5K7zoOguoZ2ST2TO2oLgClotS135k_qenIbU_-QnJLDjrGE248U1JRMSqEpxKcaeGhDORi4TPZH-vwqscWTYkXYKZGb_Kgo-Ca6Uwm61OoLa5SPqNnVZ2GUUVZtbfRJ10vRrK8lGTVPi1rP1KG6VDazD-ashW4fWBH6159dr0UeQaGkcZBSYYuED2OPRiEuLZ1tBysrwU" width="450px" height="300px" alt="RubberDuck"></img><br/>
 
