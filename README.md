@@ -1,5 +1,4 @@
-input your Team logo
-=============
+<img src="" width="450px" height="300px" alt="RubberDuck"></img><br/>
 
 ## What is this project?
 
