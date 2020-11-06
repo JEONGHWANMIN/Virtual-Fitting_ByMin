@@ -39,3 +39,7 @@ input team image
 
 
 [Notion 바로가기](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
+
+## Works Cited
+[ACGPN](https://github.com/switchablenorms/DeepFashion_Try_On)
+[VITON](https://github.com/xthan/VITON)
