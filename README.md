@@ -1,4 +1,4 @@
-<img src="" width="450px" height="300px" alt="RubberDuck"></img><br/>
+<img src="/readme/logo.png" width="600px" height="200px"></img><br/>
 
 ## What is this project?
 
