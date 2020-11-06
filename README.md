@@ -11,8 +11,11 @@
 
 ## ProJect Preview 
 
+input image 
 
 ## Team Name
+
+**안녕 ? 난 민이라고해~**
 
 ## Team Member
 **이상민** 
@@ -32,6 +35,8 @@
 
 
 
+### project period
+2020.10.10 ~ 2020~11.
 
 
 [Notion 바로가기](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
