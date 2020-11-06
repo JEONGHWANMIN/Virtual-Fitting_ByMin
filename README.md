@@ -1,8 +1,6 @@
-안녕? 난 민이라고해 ~ 팀입니다
+Virtual-Fitting ProJect
 =============
 
-## Virtual-Fitting ProJect
----------------------------------------
 
 
 
