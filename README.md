@@ -27,7 +27,7 @@
 깐족쟁이|촐싹쟁이|궁시렁쟁이|다크엔젤몬
 
 ## img
-<img src="https://lh3.googleusercontent.com/proxy/thxrDo484QDjfy5K7zoOguoZ2ST2TO2oLgClotS135k_qenIbU_-QnJLDjrGE248U1JRMSqEpxKcaeGhDORi4TPZH-vwqscWTYkXYKZGb_Kgo-Ca6Uwm61OoLa5SPqNnVZ2GUUVZtbfRJ10vRrK8lGTVPi1rP1KG6VDazD-ashW4fWBH6159dr0UeQaGkcZBSYYuED2OPRiEuLZ1tBysrwU" width="450px" height="300px" alt="RubberDuck"></img>
+<img src="" width="450px" height="300px" alt="input image"></img>
 
 
 **Project period**
