@@ -26,8 +26,7 @@
 이상민|이수민|정종민|정환민
 깐족쟁이|촐싹쟁이|궁시렁쟁이|다크엔젤몬
 
-## img
-<img src="" width="450px" height="300px" alt="input image"></img>
+## etc
 
 
 **Project period**
@@ -36,6 +35,7 @@
 
 [Notion 바로가기](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
 <br>[스프레드시트 보고서](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
+
 ## Works Cited
 * Github <br></br>
 [ACGPN](https://github.com/switchablenorms/DeepFashion_Try_On)<br></br>
