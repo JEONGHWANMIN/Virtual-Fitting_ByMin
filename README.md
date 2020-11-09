@@ -17,6 +17,9 @@
 <br/>
 
 
+![Star](https://img.shields.io/github/stars/JEONGHWANMIN/Virtual-Fitting_ByMin?style=social) ![Watch](https://img.shields.io/github/watchers/JEONGHWANMIN/Virtual-Fitting_ByMin?style=for-the-badge)
+
+
 ## 안녕 ? 난 민이라고해~
 
 
@@ -53,8 +56,5 @@
 
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-![Star](https://img.shields.io/github/stars/JEONGHWANMIN/Virtual-Fitting_ByMin?style=social) ![Watch](https://img.shields.io/github/watchers/JEONGHWANMIN/Virtual-Fitting_ByMin?style=for-the-badge)
-
 
 
