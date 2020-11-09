@@ -41,8 +41,8 @@
 
 ## Schedule management
 
-[Notion 바로가기](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
-<br>[스프레드시트 보고서](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
+[Notion](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
+<br>[Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
 
 ## Works Cited
 * Github <br>
