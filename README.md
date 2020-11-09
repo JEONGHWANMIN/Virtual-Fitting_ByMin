@@ -31,7 +31,7 @@
 [![ forthebadge made-with-python ](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
  Build | Coverage | Version
------ | ----- | -------- | --------
+ ----- | -------- | --------
 **Virtual-Fitting** |
  | | |[![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
  | | |[![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
