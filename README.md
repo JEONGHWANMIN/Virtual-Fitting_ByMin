@@ -1,4 +1,4 @@
-<img src="/readme/blue_logo.png" width="800px" height="230px"></img><br/>
+<img src="/readme/blue_logo.png"></img><br/>
 
 
 ## What is this ProJect?
