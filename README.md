@@ -29,11 +29,11 @@
 
 [![ forthebadge made-with-python ](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
- Coverage | Version
- -------- | --------
-  |[![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
-  |[![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
-  |[![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
+| Version
+| --------
+  [![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
+  [![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
+  [![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
  
  
 
