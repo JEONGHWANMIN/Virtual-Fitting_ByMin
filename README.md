@@ -22,12 +22,15 @@
 
 [![ forthebadge made-with-python ](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-| Version
-| --------
-  [![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
-  [![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
-  [![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
-
+ | Version
+ | --------
+ | [![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
+ | [![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
+ | [![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
+ | ![version](https://img.shields.io/badge/ipdb-0.13.4-blue)
+ | ![version](https://img.shields.io/badge/tensorboardX-2.1-blue)
+ | ![version](https://img.shields.io/badge/ninja-1.10.0-blue)
+ | ![version](https://img.shields.io/badge/opencv-4.1.2-blue)
 </br>
 
 ## Schedule management
