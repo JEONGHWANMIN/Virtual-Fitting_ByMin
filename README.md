@@ -47,9 +47,9 @@
 <br>[스프레드시트 보고서](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
 
 ## Works Cited
-* Github <br></br>
-[ACGPN](https://github.com/switchablenorms/DeepFashion_Try_On)<br></br>
-[VITON](https://github.com/xthan/VITON)
+* Github <br>
+[ACGPN github](https://github.com/switchablenorms/DeepFashion_Try_On) | [VITON github](https://github.com/xthan/VITON)
+</br>
 
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
