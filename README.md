@@ -35,13 +35,11 @@
   [![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
   [![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
  
- 
-
-
 
 **Project period**
 2020.10.10 ~ 2020~11.
 
+## Schedule management
 
 [Notion 바로가기](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
 <br>[스프레드시트 보고서](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
