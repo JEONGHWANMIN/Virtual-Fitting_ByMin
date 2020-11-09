@@ -2,14 +2,6 @@
 
 [![ forthebadge made-with-python ](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-Web-Name  | Build | Coverage | Version
------ | ----- | -------- | --------
-**Virtual-Fitting** |
-| | | |[![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
-| | | |[![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
-| | | |[![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
-
-
 
 [![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
 [![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
@@ -31,10 +23,6 @@ Web-Name  | Build | Coverage | Version
 <img src="/readme/preview.png" width="500px" height="300px"></img>
 <br/>
 
-[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/JEONGHWANMIN/Virtual-Fitting_ByMin/blob/master/README.md) 
-
-
-
 
 ## Team !!
 
@@ -46,6 +34,16 @@ Web-Name  | Build | Coverage | Version
 깐족쟁이|촐싹쟁이|궁시렁쟁이|다크엔젤몬
 
 ## ABOUT
+
+Web-Name  | Build | Coverage | Version
+----- | ----- | -------- | --------
+**Virtual-Fitting** |
+| | | |[![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
+| | | |[![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
+| | | |[![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
+
+
+
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
