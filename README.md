@@ -9,6 +9,8 @@ Web-Name  | Build | Coverage | Version
 | | | |[![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
 | | | |[![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
 
+
+
 [![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
 [![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
 [![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
@@ -42,7 +44,8 @@ Web-Name  | Build | Coverage | Version
 이상민|이수민|정종민|정환민
 깐족쟁이|촐싹쟁이|궁시렁쟁이|다크엔젤몬
 
-## etc
+## ABOUT
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 
 **Project period**
