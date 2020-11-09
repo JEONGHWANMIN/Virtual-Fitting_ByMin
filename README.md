@@ -37,7 +37,7 @@ NOTION  [[Click]](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
 * 일정 관리<br>
 Spreadsheet [[Click]](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)
 
-**Project period**
+## Project period
 2020.10.10 ~ 2020~11.
 
 
