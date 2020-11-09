@@ -16,9 +16,9 @@
 <img src="/readme/preview.png" width="500px" height="300px"></img>
 <br/>
 
-
 ![Star](https://img.shields.io/github/stars/JEONGHWANMIN/Virtual-Fitting_ByMin?style=social) 
 
+## 안녕 ? 난 민이라고해 ~
 
 팀장|팀원|팀원|팀원
 ---|---|---|---
