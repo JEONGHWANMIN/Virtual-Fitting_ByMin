@@ -18,12 +18,6 @@
 
 ![Star](https://img.shields.io/github/stars/JEONGHWANMIN/Virtual-Fitting_ByMin?style=social) 
 
-## 안녕 ? 난 민이라고해 ~
-
-팀장|팀원|팀원|팀원
----|---|---|---
-이상민|이수민|정종민|정환민
-깐족쟁이|촐싹쟁이|궁시렁쟁이|다크엔젤몬
 
 ## ABOUT
 
@@ -34,15 +28,24 @@
   [![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
   [![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
   [![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
- 
 
-**Project period**
-2020.10.10 ~ 2020~11.
 
 ## Schedule management
 
 [Notion](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
 <br>[Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
+
+**Project period**
+2020.10.10 ~ 2020~11.
+
+
+## 안녕 ? 난 민이라고해 ~
+
+팀장|팀원|팀원|팀원
+---|---|---|---
+이상민|이수민|정종민|정환민
+깐족쟁이|촐싹쟁이|궁시렁쟁이|다크엔젤몬
+
 
 ## Works Cited
 * Github <br>
