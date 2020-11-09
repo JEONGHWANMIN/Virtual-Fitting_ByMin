@@ -33,8 +33,6 @@ Web-Name  | Build | Coverage | Version
 
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/JEONGHWANMIN/Virtual-Fitting_ByMin/blob/master/README.md) 
 
-## Team Name
-
 
 
 
