@@ -31,7 +31,7 @@
  | ![version](https://img.shields.io/badge/opencv-4.1.2-blue)
 </br>
 
-## Schedule management
+## Schedule Management
 
 * 프로젝트 관리 및 소통<br>
 NOTION  [[Click]](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
