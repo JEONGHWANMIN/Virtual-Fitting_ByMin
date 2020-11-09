@@ -32,9 +32,11 @@
 
 ## Schedule management
 
-* 일정 / 스케줄/ 프로젝트 관리 <br>
+* 프로젝트 관리 및 소통<br>
 NOTION  [[Click]](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
-<br>[Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
+<br>
+* 일정 관리
+Spreadsheet [[Click]](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)</br>
 
 **Project period**
 2020.10.10 ~ 2020~11.
