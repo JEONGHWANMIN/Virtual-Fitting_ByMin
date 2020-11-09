@@ -39,7 +39,7 @@
 
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Monthly Downloads](https://poser.pugx.org/phpunit/phpunit/d/monthly)](//packagist.org/packages/phpunit/phpunit)
+
 
 **Project period**
 2020.10.10 ~ 2020~11.
