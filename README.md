@@ -17,10 +17,7 @@
 <br/>
 
 
-![Star](https://img.shields.io/github/stars/JEONGHWANMIN/Virtual-Fitting_ByMin?style=social) ![Watch](https://img.shields.io/github/watchers/JEONGHWANMIN/Virtual-Fitting_ByMin?style=for-the-badge)
-
-
-## 안녕 ? 난 민이라고해~
+![Star](https://img.shields.io/github/stars/JEONGHWANMIN/Virtual-Fitting_ByMin?style=social) 
 
 
 팀장|팀원|팀원|팀원
