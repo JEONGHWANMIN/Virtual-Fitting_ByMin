@@ -1,4 +1,4 @@
-<img src="/readme/logo2.png" width="800px" height="170px"></img><br/>
+<img src="/readme/logo2.png" width="800px" height="230px"></img><br/>
 
 
 
