@@ -32,15 +32,14 @@
 
  Build | Coverage | Version
  ----- | -------- | --------
-**Virtual-Fitting** |
+**Virtual-Fitting** | | |
  | | |[![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
  | | |[![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
  | | |[![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
 
 
-
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+[![Monthly Downloads](https://poser.pugx.org/phpunit/phpunit/d/monthly)](//packagist.org/packages/phpunit/phpunit)
 
 **Project period**
 2020.10.10 ~ 2020~11.
