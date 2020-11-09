@@ -20,8 +20,6 @@
 
 ## ABOUT
 
-[![ forthebadge made-with-python ](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
  | Version
  | --------
  | [![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
