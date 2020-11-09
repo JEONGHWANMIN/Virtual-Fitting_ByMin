@@ -36,9 +36,11 @@
  | | |[![version](https://img.shields.io/badge/Python-3.7.6-blue)](https://www.python.org/) 
  | | |[![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
  | | |[![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
-
-
+ 
+ 
+[![commit](https://img.shields.io/github/commit-activity/w/JEONGHWANMIN/Virtual-Fitting_ByMin?style=flat-square)]
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 **Project period**
