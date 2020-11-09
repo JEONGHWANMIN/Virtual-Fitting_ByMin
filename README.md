@@ -1,7 +1,5 @@
 <img src="/readme/logo.png" width="1000px" height="300px"></img><br/>
 
-[![ forthebadge made-with-python ](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
 
 
 ## What is this ProJect?
@@ -29,6 +27,8 @@
 깐족쟁이|촐싹쟁이|궁시렁쟁이|다크엔젤몬
 
 ## ABOUT
+
+[![ forthebadge made-with-python ](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 Web-Name  | Build | Coverage | Version
 ----- | ----- | -------- | --------
