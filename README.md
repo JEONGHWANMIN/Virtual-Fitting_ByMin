@@ -5,6 +5,8 @@
 [![version](https://img.shields.io/badge/Flask-1.1.1-blue)](https://flask-docs-kr.readthedocs.io/ko/latest/) 
 [![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
 
+
+
 ## What is this ProJect?
 * 최근 IT기술과 패션의 융합 시도가 많아지고 있다. 옷을 입지 않아도 미리 확인할 수 있는 스마트미러, AR 피팅존, 맞춤형 상품을 추천해주는 스마트 브로셔 등 패션에 IT 기술의 융합하여 여러 변화와 혁신을 시도하고 있다.
 <br></br>
