@@ -1,10 +1,6 @@
 <img src="/readme/logo.png" width="1000px" height="300px"></img><br/>
 
-[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/140/13.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-project-140)
-[![Build Status](https://travis-ci.org/OCA/project.svg?branch=13.0)](https://travis-ci.org/OCA/project)
-[![codecov](https://codecov.io/gh/OCA/project/branch/13.0/graph/badge.svg)](https://codecov.io/gh/OCA/project)
-
-
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/JEONGHWANMIN/Virtual-Fitting_ByMin/blob/master/README.md) 
 
 ## What is this ProJect?
 * 최근 IT기술과 패션의 융합 시도가 많아지고 있다. 옷을 입지 않아도 미리 확인할 수 있는 스마트미러, AR 피팅존, 맞춤형 상품을 추천해주는 스마트 브로셔 등 패션에 IT 기술의 융합하여 여러 변화와 혁신을 시도하고 있다.
