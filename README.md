@@ -1,4 +1,4 @@
-<img src="/readme/orange_logo.png"></img><br/>
+<p align="center"><img src="/readme/orange_logo.png"></img></p><br/>
 
 
 ## What is this ProJect?
