@@ -51,9 +51,8 @@ NOTION  [[Click]](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
 ## Works Cited
 * Github <br>
 ACGPN  [[Click]](https://github.com/switchablenorms/DeepFashion_Try_On) | VITON  [[Click]](https://github.com/xthan/VITON)
-<br>
 * Paper <br>
-ACGPN [[Click]] (https://arxiv.org/abs/2003.05863)
+ACGPN [[Click]](https://arxiv.org/abs/2003.05863)
 
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
