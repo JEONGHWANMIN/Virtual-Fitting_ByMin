@@ -30,6 +30,7 @@
   [![version](https://img.shields.io/badge/Pytorch%20-1.6.0-blue)](https://pytorch.org/) 
 
 </br>
+
 ## Schedule management
 
 * 프로젝트 관리 및 소통<br>
@@ -37,10 +38,12 @@ NOTION  [[Click]](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
 * 일정 관리<br>
 Spreadsheet [[Click]](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)
 </br>
+
 ## Project period
 2020.10.10 ~ 2020~11.
 
 </br>
+
 ## 안녕 ? 난 민이라고해 ~
 
 팀장|팀원|팀원|팀원
@@ -49,6 +52,7 @@ Spreadsheet [[Click]](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S
 깐족쟁이|촐싹쟁이|궁시렁쟁이|다크엔젤몬
 
 </br>
+
 ## Works Cited
 * Github <br>
 ACGPN  [[Click]](https://github.com/switchablenorms/DeepFashion_Try_On) | VITON  [[Click]](https://github.com/xthan/VITON)
@@ -56,6 +60,7 @@ ACGPN  [[Click]](https://github.com/switchablenorms/DeepFashion_Try_On) | VITON 
 ACGPN [[Click]](https://arxiv.org/abs/2003.05863)
 
 </br>
+
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
