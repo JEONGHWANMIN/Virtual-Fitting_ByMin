@@ -10,11 +10,12 @@ __pycache__/
 *$py.class
 
 # ACGPN
-checkpoints/
-Data_preprocessing/
-results/
-audio/
-images/
+flaskapp/acgpn/checkpoints/
+flaskapp/acgpn/Data_preprocessing/
+flaskapp/acgpn/ACGPN_make_pose_model/
+flaskapp/acgpn/results/
+flaskapp/static/audio/
+flaskapp/static/images/
 
 # C extensions
 *.so
