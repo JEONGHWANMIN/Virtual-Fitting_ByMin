@@ -8,7 +8,9 @@
 <br></br>
 * 온라인의 경우 소비자는 옷을 직접 입어보고 판단을 할 수 없기 때문에 만족도가 떨어지고 반품을 하는 과정에서 기회비용이 발생하게 된다. 따라서 Virtual-Fitting을 통해 온라인 쇼핑의 한계를 보완하고자 한다.
 </br>
-
+### Project period
+2020.10.10 ~ 2020~11.
+</br>
 ## 안녕 ? 난 민이라고해 ~
 
 팀장|팀원|팀원|팀원
@@ -44,15 +46,8 @@
 
 ## Schedule Management
 
-* 프로젝트 관리 및 소통<br>
-NOTION  [[Click]](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
-* 일정 관리<br>
-Spreadsheet [[Click]](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)
-</br>
-
-## Project period
-2020.10.10 ~ 2020~11.
-
+* 프로젝트 관리 및 소통 : NOTION  [[Click]](https://www.notion.so/AI-27c20722167c456e84110791cca0771c)
+* 일정 관리 : Spreadsheet [[Click]](https://docs.google.com/spreadsheets/u/0/d/1VYxDzwDt88ND5S6YmfKAdz-pvAp3t1nZ/edit?usp=sheets_home&ths=true)
 </br>
 
 
