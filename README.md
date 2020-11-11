@@ -8,9 +8,11 @@
 <br></br>
 * 온라인의 경우 소비자는 옷을 직접 입어보고 판단을 할 수 없기 때문에 만족도가 떨어지고 반품을 하는 과정에서 기회비용이 발생하게 된다. 따라서 Virtual-Fitting을 통해 온라인 쇼핑의 한계를 보완하고자 한다.
 </br>
+
 ### Project period
 2020.10.10 ~ 2020~11.
 </br>
+
 ## 안녕 ? 난 민이라고해 ~
 
 팀장|팀원|팀원|팀원
@@ -55,7 +57,7 @@
 * Github <br>
 ACGPN  [[Click]](https://github.com/switchablenorms/DeepFashion_Try_On) | VITON  [[Click]](https://github.com/xthan/VITON)
 * Paper <br>
-ACGPN [[Click]](https://arxiv.org/abs/2003.05863)
+ACGPN [[Click]](https://arxiv.org/abs/2003.05863) | VITON [[Click]](https://arxiv.org/abs/1711.08447)
 
 </br>
 
