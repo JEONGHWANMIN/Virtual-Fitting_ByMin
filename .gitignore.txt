@@ -10,7 +10,7 @@ __pycache__/
 *$py.class
 
 # ACGPN
-flaskapp/acgpn/checkpoints/
+**/checkpoints/
 flaskapp/acgpn/Data_preprocessing/
 flaskapp/acgpn/ACGPN_make_pose_model/
 flaskapp/acgpn/results/
