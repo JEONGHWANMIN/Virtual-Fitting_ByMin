@@ -1,0 +1,131 @@
+{% extends 'layout.html' %}
+
+{% block css %}
+<link rel="stylesheet" href="../static/css/signup.css" />
+{% endblock %}
+ 
+{% block content %}
+
+  <main class="main1">
+    <!--===== HOME =====-->
+    <section class="home" id="home">
+      <div class="home__container bd-grid">
+        <div class="home__data">
+          <h1 class="home__title"><span>SIGN UP</span></h1>
+        </div>
+      </div>
+    </section>   
+
+    <!--===== signup =====-->
+    <div id="header">
+      <div id="wrapper">
+        <div id="content">
+
+          <!-- ID -->
+          <form method="POST" >
+            {{form.csrf_token}}
+            <div>
+              <h3>
+                <label for="id">아이디</label>
+              </h3>
+              <span class="box int_id">
+                {{form.userid(class="int", placeholder="아이디")}}
+              </span>
+              <span class="error_next_box"></span>
+            </div>
+
+            <!-- PW1 -->
+            <div>
+              <h3 class="join_title"><label for="pswd1">비밀번호</label></h3>
+              <span class="box int_pass">
+                  {{form.password(class="int", placeholder="비밀번호")}}
+                  <span id="alertTxt">사용불가</span>
+                  <i class='bx bx-lock' id="pswd_img"></i>
+              </span>
+              <span class="error_next_box"></span>
+            </div>
+
+            <!-- PW2 -->
+            <div>
+              <h3 class="join_title"><label for="pswd2">비밀번호 재확인</label></h3>
+              <span class="box int_pass_check">
+                {{form.re_password(class="int", placeholder="비밀번호 확인")}}
+                <i class='bx bx-lock-open' id="pswd_img" ></i>
+              </span>
+              <span class="error_next_box"></span>
+            </div>
+
+            <!-- NAME -->
+            <div>
+              <h3 class="join_title"><label for="name">이름</label></h3>
+              <span class="box int_name">
+                {{form.username(class="int", placeholder="사용자 이름")}}
+              </span>
+              <span class="error_next_box"></span>
+            </div>
+
+
+            <!-- BIRTH -->
+            <div>
+              <h3 class="join_title"><label for="yy">생년월일</label></h3>
+              <div id="bir_wrap">
+                <!-- BIRTH_YY -->
+                <div id="bir_yy">
+                  {{form.birthday_year(class="int", placeholder="년도")}}
+                </div>
+
+                <!-- BIRTH_MM -->
+                <div id="bir_mm">
+      
+                  {{ form.birthday_month(class="int", placeholder="월") }}
+                </div>
+
+                <!-- BIRTH_DD -->
+                <div id="bir_dd">
+                  {{form.birthday_day(class="int", placeholder="일")}}
+                </div>
+
+              </div>
+              <span class="error_next_box"></span>    
+            </div>
+
+            <!-- GENDER -->
+            <div>
+              <h3 class="join_title"><label for="gender">성별</label></h3>
+              <span class="box_gender_code">
+                {{form.sex(class="int", placeholder="성별")}}
+              </span>
+              <span class="error_next_box">필수 정보입니다.</span>
+            </div>
+
+
+            <!-- MOBILE -->
+            <div>
+              <h3 class="join_title"><label for="phoneNo">휴대전화</label></h3>
+              <span class="box int_mobile">
+                <!-- <input type="tel" id="mobile" class="int" maxlength="16" placeholder="전화번호 입력"> -->
+                {{form.phone(class="int", placeholder="전화번호")}}
+              </span>
+              <span class="error_next_box"></span>    
+            </div>
+
+            <!-- JOIN BTN-->
+            <div class="btn_area">
+              <button type="submit" id="btnJoin">
+                <span>가입하기</span>
+              </button>
+            </div>
+
+          </div>
+        </form>
+        <!-- content-->
+
+      </div>  
+      <!-- wrapper-->
+    </div>
+
+  </main>    
+  <!--===== MAIN JS =====-->
+  <script src="../static/js/signup.js"></script>
+
+{% endblock %}

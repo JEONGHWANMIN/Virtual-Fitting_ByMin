@@ -1,0 +1,33 @@
+{% extends 'layout.html' %}
+
+{% block css %}
+<link rel="stylesheet" href="../static/css/takepic.css"/>
+{% endblock %}
+
+{% block content %}
+    <main class="main1">
+        <!--===== HOME =====-->
+        <section class="home" id="home">
+            <div class="home__container bd-grid">
+                <div class="home__data">
+                    <h1 class="home__title">TAKE<br><br><br><span>YOUR</span><br><br><br><span>PICTURE</span></h1>
+                </div>
+                
+                <div class="home__data">
+                    <div class="home__card">
+                        <img id="bg" src="{{ url_for('video_feed') }}">
+                    </div>
+                    <div class="home__save">
+                        <form action="{{url_for('shutter')}}" method="POST" >
+                            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+                            <input type="submit" class="save" value="SAVE">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>   
+        
+    <!--===== MAIN JS =====-->
+    <script src="../static/js/takepic.js"></script>
+{% endblock %}

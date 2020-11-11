@@ -1,0 +1,62 @@
+{% extends 'layout.html' %}
+
+{% block css %}
+<link rel="stylesheet" href="../static/css/virtualfitting.css" />
+{% endblock %}
+
+{% block content %}
+
+<main class="main1">
+    <!--===== HOME =====-->
+    <section class="home" id="home">
+        <form action="http://localhost/filesave" method="POST" enctype="multipart/form-data">
+        <div class="home__container bd-grid">
+                <div class="home__data">
+                    <h1 class="home__title"> VIRTUAL<br><br> FITTING<br><br><br><span>ROOM</span></h1>
+                    
+                    <div class="button">
+                        <div class="take__picture">
+                            <a href="{{ url_for('takepic') }}" class="button">TAKE A PICTURE</a>
+                        </div><br>
+                        
+                        <div class="upload__image">
+                            <!-- 사람 이미지 -->
+                            <label for="file">UPLOAD IMAGE</label>
+                            <input type="file" multiple="false" name="person_file" id="file">
+                        </div>
+                    </div>
+                </div>
+                <div class="home__data">
+                    <div class="home__card">
+                        <!-- <img src="../static/images/square.png" alt="" class="card" id="card"> -->
+                        {% if image_exists %}
+                        <img src='{{ image_path }}' class='img' id='img' style="display: block;">
+                        {% else %}
+                        <img src='' class='img' id='img'>
+                        {% endif %}
+                    </div>
+                    <div class="home__save">
+                        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+                        <input type="submit" class="save" value="SAVE">
+                    </div>
+                </div>
+            </div>
+        </form>
+
+    </section>
+    {% if isLogin %}
+    <script type="text/javascript">
+        alert("로그인을 해주세요.");
+    </script>
+    {% endif %}
+
+    {% if nothing %}
+    <script type="text/javascript">
+        alert("이미지를 넣어주세요.");
+    </script>
+    {% endif %}
+
+    <!--===== MAIN JS =====-->
+    <script src="../static/js/virtualfitting.js"></script>
+    
+    {% endblock %}

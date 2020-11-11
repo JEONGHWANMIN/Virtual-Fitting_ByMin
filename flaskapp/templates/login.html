@@ -1,0 +1,72 @@
+{% extends 'layout.html' %}
+
+{% block css %}
+<link rel="stylesheet" href="../static/css/login.css" />
+{% endblock %}
+
+{% block content %}
+
+<main class="main1">
+  <!--===== HOME =====-->
+  <section class="home" id="home">
+    <div class="home__container bd-grid">
+      <div class="home__data">
+        <h1 class="home__title"><span>LOG IN</span></h1>
+      </div>
+    </div>
+  </section>
+
+  <!--===== LOGIN =====-->
+  <div id="header">
+    <div id="wrapper">
+      <div id="content">
+        <form method="POST">
+          {{form.csrf_token}}
+          <!-- ID -->
+          <div>
+            <h3>
+              <label for="id">아이디</label>
+            </h3>
+            <span class="box int_id">
+              {{form.userid(class="int", placeholder="아이디")}}
+            </span>
+            <span class="error_next_box"></span>
+          </div>
+
+          <!-- PW1 -->
+          <div>
+            <h3 class="join_title"><label for="pswd1">비밀번호</label></h3>
+            <span class="box int_pass">
+              {% if form.password.errors %}
+              <!-- 로그인 실패시 errors/ password필드의 모든 에러를 갖고있다. -->
+              <script type="text/javascript">
+                alert("{{form.password.errors.0}}");
+              </script>
+              <!--0 : 첫번째 에러메시지를 출력 하겠다 라는 뜻  -->
+              {%endif%}
+              {{form.password(class="int", placeholder="비밀번호")}}
+            </span>
+            <span class="error_next_box"></span>
+          </div>
+
+          <!-- JOIN BTN-->
+          <div class="btn_area">
+            <button type="submit" id="btnJoin">
+              <span>LOG IN</span>
+            </button>
+          </div>
+        </form>
+
+
+      </div>
+      <!-- content-->
+
+    </div>
+    <!-- wrapper-->
+  </div>
+
+</main>
+<!--===== MAIN JS =====-->
+<script src="../static/js/login.js"></script>
+
+{% endblock %}

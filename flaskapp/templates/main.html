@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual-Fitting</title>
+    <link rel="stylesheet" href="../static/css/loader_css.css">
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>  
+    <h2>Results</h2>
+    <hr/>
+    {% if image_file %}
+    <div>
+        <img src="{{ url_for('static', filename=image_file) }}"/>
+    </div>
+    {% endif %}
+</body>
+</html>

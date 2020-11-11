@@ -1,0 +1,59 @@
+{% extends 'layout.html' %}
+
+{% block css %}
+<link rel="stylesheet" href="../static/css/result.css" />
+{% endblock %}
+
+{% block content %}
+
+    <main class="main1">
+        <!--===== HOME =====-->
+        <section class="home" id="home">
+            <div class="home__container bd-grid">
+                <div class="home__data">
+                    <h1 class="home__title">MY FITTING ROOM</h1>
+                    <!--===== FEATURED PRODUCTS =====-->
+                    <section class="featured section" id="featured">
+
+                        <div class="featured__container bd-grid">
+
+                            <div class="featured__product">
+                                <div class="featured__box">
+                                    <img src="{{ url_for('static', filename=person_img) }}" alt="" class="featured__img">
+                                </div>
+                                <div class="featured__data">
+                                    <h3 class="featured__name">Before</h3>
+                                </div>
+                            </div>
+
+                            <div class="featured__product">
+                                <div class="featured__box">
+                                    <img src="{{ url_for('static', filename=clothes_img) }}" alt="" class="featured__img">
+                                </div>
+                                <div class="featured__data">
+                                    <h3 class="featured__name">Your Choice</h3>
+                                </div>
+                            </div>
+
+                            <div class="featured__product">
+                                <div class="featured__box">
+                                    <img src="{{ url_for('static', filename=image_file) }}" alt="" class="featured__img">
+                                </div>
+                                <div class="featured__data">
+                                    <h3 class="featured__name">After</h3>
+                                </div>
+                            </div>
+
+                        </div>
+                    </section>
+                </div>
+            </div>
+        
+            
+        </section>
+        
+        
+    </main>
+    <!--===== MAIN JS =====-->
+    <script src="../static/js/result.js"></script>
+{% endblock %}
